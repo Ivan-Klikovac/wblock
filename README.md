@@ -1,5 +1,7 @@
 # wblock
- Simple command-line C program for Windows that blocks connections to a given hostname by editing the hosts file. Great for wasting less time on the Internet.
+ Simple command-line C program for Windows that blocks connections to a given hostname by editing the hosts file. 
+ 
+ Great for wasting less time on the Internet.
 
 ## Installation
 Clone the repo and compile `main.c`. No external dependencies are needed.
